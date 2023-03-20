@@ -1,12 +1,10 @@
 ## Hi, I'm [Musheer](https://github.com/Musheer360)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">
 
 Welcome to my GitHub page! I'm a passionate developer who loves to build exciting web and mobile applications.
-</br>
-I'm currently honing my skills in web development and data structures, constantly striving to improve my craft.
 
 ### What I'm Up To
 
-- 🌱 I'm currently learning new front-end and back-end frameworks to expand my knowledge and expertise.
+- 🌱 I'm currently honing my skills in web development and data structures, constantly striving to improve my craft.
 - 💻 I'm working on some personal projects that explore different technologies and tools.
 - 💬 I'm always happy to discuss new ideas, technologies, and collaborations!
 
