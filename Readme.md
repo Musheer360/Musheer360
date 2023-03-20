@@ -22,9 +22,9 @@ I'm currently honing my skills in web development and data structures, constantl
 
 ### What I'm Looking For
 
-- 💞️ I'm eager to collaborate with other developers on projects that challenge me and help me grow
-- 🤝 I'm open to contributing to open source projects and participating in hackathons
-- 🔎 I'm actively seeking new opportunities in the tech industry
+- 💞️ I'm eager to collaborate with other developers on projects that challenge me and help me grow.
+- 🤝 I'm open to contributing to open source projects and participating in hackathons.
+- 🔎 I'm actively seeking new opportunities in the tech industry.
 
 ### GitHub Stats:
 
