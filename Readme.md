@@ -16,7 +16,8 @@ Welcome to my GitHub page! I'm a passionate developer who loves to build excitin
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></code> 
 
 ### What I'm Looking For
 
