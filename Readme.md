@@ -4,7 +4,7 @@ Welcome to my GitHub page! I'm a passionate developer who loves to build excitin
 
 ### What I'm Up To
 
-- 🌱 I'm currently honing my skills in web development and data structures, constantly striving to improve my craft.
+- 🌱 I'm currently honing my skills in Android development and data structures, constantly striving to improve my craft.
 - 💻 I'm working on some personal projects that explore different technologies and tools.
 - 💬 I'm always happy to discuss new ideas, technologies, and collaborations!
 
